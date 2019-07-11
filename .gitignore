@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .DS_Store
 node_modules/
 dist/
@@ -14,3 +15,10 @@ tests/**/coverage/
 *.ntvs*
 *.njsproj
 *.sln
+=======
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+>>>>>>> ba73e54313d177029c2b0efc666b1fb88c436700
